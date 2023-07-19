@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @nezihyaldiz
 - 💞️ a good person
+- but bad if necessary
+
 
 ...
   
